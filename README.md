@@ -1,6 +1,4 @@
 
-<<<<<<< HEAD
-=======
 ## Students
  HEAD
 - Name:Kole Ebang Ryan
@@ -12,4 +10,4 @@
 feature/YEFF
 NAME: TABI PAUL AGWE   
 MATRICULE: ICT20241934
->>>>>>> 8518e2b274f8eefae615719416df00dd6a3b5250
+
