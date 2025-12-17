@@ -1,4 +1,3 @@
-GUINTANG ONDOUA ICTU20241644
 ### This is the evaluation of version control
 
 - Lecturer: Tekoh Palma
@@ -27,3 +26,4 @@ GUINTANG ONDOUA ICTU20241644
 - Name: Sandra Colleh Kayeh  Matricule: ICTU20241853
 -Name: Afongho Hemuel Praise     Matricule: ICTU20241969
 
+GUINTANG ONDOUA MARIE PIERRE ICTU20241644
