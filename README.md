@@ -1,15 +1,15 @@
 
-### This is the evaluation of version control
-
-- Lecturer: Tekoh Palma
-- TA: Madam Carmilla
-
 ## Students
  HEAD
-- BERI NDAMNSA:ICTU20241668
-- Lum Azinui Emerald Chingang ICTU20241334
 - Name:Kole Ebang Ryan
 - Matricule:ICTU20251127
+- Name:John Mc Knight liyou
+- Matricule:ICTU20241639
+-Name: Fortu Irvine Munye ICTU20241831
+- Fotsi Fotsi Eric Yann, ICTU20241373
+feature/YEFF
+NAME: TABI PAUL AGWE   
+MATRICULE: ICT20241934
 - Mekoulou eloundou yves ornelie ICTU20241845
 - Lankoko Ayinda Raissa,ICTU20241555
 - Name: Namme Menyoli Arnold
