@@ -4,7 +4,7 @@
 - TA: Madam Carmilla
 
 ## Students
- HEAD
+- BERI NDAMNSA:ICTU20241668
 - Name:Kole Ebang Ryan
 - Matricule:ICTU20251127
 - Name:John Mc Knight liyou
@@ -14,3 +14,5 @@
 feature/YEFF
 LankokoAyindaRaissa,ICTU20241555
 
+- Name:Asangwa Promise Tamia
+- Matricule:ICTU20241312
