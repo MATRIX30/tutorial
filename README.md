@@ -6,3 +6,5 @@
 ## Students
 - Name:Kole Ebang Ryan
 - Matricule:ICTU20251127
+- Name:John Mark Knight
+- Matricule:ICTU20241639
