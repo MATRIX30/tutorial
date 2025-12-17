@@ -1,4 +1,3 @@
-GUINTANG ONDOUA ICTU20241644
 ### This is the evaluation of version control
 
 - Lecturer: Tekoh Palma
@@ -26,3 +25,4 @@ GUINTANG ONDOUA ICTU20241644
 - Matricule: ICTU20251173
 - Name: Fotsi Fotsi Eric Yann, ICTU20241373
 
+GUINTANG ONDOUA MARIE PIERRE ICTU20241644
