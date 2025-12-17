@@ -1,1 +1,18 @@
-"Lum Azinui Emerald Chingang ICTU20241334"  
+
+### This is the evaluation of version control
+
+- Lecturer: Tekoh Palma
+- TA: Madam Carmilla
+
+## Students
+- BERI NDAMNSA:ICTU20241668
+- Lum Azinui Emerald Chingang ICTU20241334
+- Name:Kole Ebang Ryan
+- Matricule:ICTU20251127
+- Name:John Mc Knight liyou
+- Matricule:ICTU20241639
+-Name: Fortu Irvine Munye ICTU20241831
+- Fotsi Fotsi Eric Yann, ICTU20241373
+feature/YEFF
+- Name:Asangwa Promise Tamia
+- Matricule:ICTU20241312
