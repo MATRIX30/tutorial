@@ -11,6 +11,7 @@
 - Matricule:ICTU20241639
 -Name: Fortu Irvine Munye ICTU20241831
 - Fotsi Fotsi Eric Yann, ICTU20241373
+- Nganso Djeutcha Brenda, ICTU20241578
 feature/YEFF
 LankokoAyindaRaissa,ICTU20241555
 
