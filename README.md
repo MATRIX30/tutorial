@@ -1,10 +1,4 @@
-### This is the evaluation of version control
+NAME: TABI PAUL AGWE
 
-- Lecturer: Tekoh Palma
-- TA: Madam Carmilla
+MATRICULE: ICT20241934
 
-## Students
-- Name:Kole Ebang Ryan
-- Matricule:ICTU20251127
-- Name:John Mc Knight liyou
-- Matricule:ICTU20241639
