@@ -2,4 +2,4 @@
 - Lecturer: Tekoh Palma
 - TA: Madam Carmilla
 ## Students
-- Fotsi Fotsi Eric Yann, ICTU20241373
+- Name: Fotsi Fotsi Eric Yann, ICTU20241373
