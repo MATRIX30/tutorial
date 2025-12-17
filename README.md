@@ -14,6 +14,8 @@
 - Lankoko Ayinda Raissa,ICTU20241555
 - Name: Namme Menyoli Arnold
 - Matricule: ICTU20251105
+- Name: Ayuk Bisong Nicanor
+- Matricule: ICTU20251121
 
 
 
