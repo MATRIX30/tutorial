@@ -18,7 +18,8 @@
 - Matricule:ICTU20241312
 -MARK AJINWI NDITAPAH, ICTU20241443
 - Name: Njoh Rosaline  Matricule: ICTU20241501
-- Name: Fotsing Matakou Huguette Matricule: ICTU20241502  
+- Name: Fotsing Matakou Huguette Matricule: ICTU20241502 
+- Name: Namme Menyoli Arnold , Matricule: ICTU20251105  
 
 HEAD
 
@@ -46,8 +47,8 @@ HEAD
 - GUINTANG ONDOUA MARIE PIERRE ICTU20241644
 
 * Name: Sandra Colleh Kayeh  Matricule: ICTU20241853
-* Name: Tembuck uslar
-* Matricule: ICTU20251173
+* Name: Namme Menyoli Arnold
+* Matricule: ICTU20251105
 * Name: Fotsi Fotsi Eric Yann, ICTU20241373
 * Tchounga Mbagna Yann Melvin, ICTU20241442
 
