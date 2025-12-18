@@ -21,6 +21,7 @@
 - Name: Fotsing Matakou Huguette Matricule: ICTU20241502 
 - Name: Namme Menyoli Arnold , Matricule: ICTU20251105  
 - Name: Tembuck Uslar , Matricule:ICTU20251173
+- Name: Ngoh Tche Huela, Matricule: ICTU20241492
 
 HEAD
 
