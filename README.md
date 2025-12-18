@@ -65,3 +65,5 @@ Matricule: ICTU20241328
 - Name:Obiegbunam Philip
 - Matriculation:ICTU20251151 
 - Name: Njouda Tchinda Randy, ICTU20241933
+-Name :Boseme Libie Mbile
+-Matricule:ICTU20241582
