@@ -25,6 +25,8 @@ HEAD
 * Lankoko Ayinda Raissa,ICTU20241555
 * Name: Ayuk Bisong Nicanor
 * Matricule: ICTU20251121
+* Name:Ndzeka Getrude Berinyuy
+* Matricule:ICTU20241451
 
 
 
