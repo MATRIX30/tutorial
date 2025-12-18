@@ -58,9 +58,8 @@ HEAD
 *Name: Chia Feni Tony Kiendel
 *Matricule: ICTU20241701
 <<<<<<< HEAD
-*Name: Ayangho Jadrey Chofong
-*Matricule:ICTU20241866
-=======
+- Name: AYANGHO-JADREY-CHOFONG -Matricule:ICTU20241866
+
 
 *Name: Hassan Tita Pofakeo Musa 
 Matricule: ICTU20241328
