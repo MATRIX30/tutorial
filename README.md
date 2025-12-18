@@ -17,8 +17,7 @@
 - Name:Asangwa Promise Tamia
 - Matricule:ICTU20241312
 -MARK AJINWI NDITAPAH, ICTU20241443
-- Name: Njoh Rosaline 
-- Matricule: ICTU20241501 
+- Name: Njoh Rosaline  Matricule: ICTU20241501 
 
 HEAD
 
