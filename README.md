@@ -69,3 +69,5 @@ Matricule: ICTU20241328
 - Matriculation:ICTU20251151 
 - Name: Njouda Tchinda Randy, ICTU20241933
 - Name: kulaban kyle , ICTU20241758
+- Name: Arrey Bissong Gerald
+- Matricule: ICTU20251120
