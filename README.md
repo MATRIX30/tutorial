@@ -1,7 +1,7 @@
 ### This is the evaluation of version control
 
-- Lecturer: Tekoh Palma
-- TA: Madam Carmilla
+* Lecturer: Tekoh Palma
+* TA: Madam Carmilla
 
 ## Students
 - BERI NDAMNSA:ICTU20241668
@@ -14,3 +14,42 @@
 - Nganso Djeutcha Brenda, ICTU20241578
 - Name:Asangwa Promise Tamia
 - Matricule:ICTU20241312
+
+HEAD
+
+* BERI NDAMNSA:ICTU20241668
+* Lum Azinui Emerald Chingang ICTU20241334
+* Name:Kole Ebang Ryan
+* Matricule:ICTU20251127
+* Mekoulou eloundou yves ornelie ICTU20241845
+* Lankoko Ayinda Raissa,ICTU20241555
+* Name: Ayuk Bisong Nicanor
+* Matricule: ICTU20251121
+
+
+
+
+
+
+
+- Name: Sandra Colleh Kayeh  Matricule: ICTU20241853
+- Name: Tembuck uslar
+- Matricule: ICTU20251173
+- Name: Fotsi Fotsi Eric Yann, ICTU20241373
+- GUINTANG ONDOUA MARIE PIERRE ICTU20241644
+
+* Name: Sandra Colleh Kayeh  Matricule: ICTU20241853
+* Name: Tembuck uslar
+* Matricule: ICTU20251173
+* Name: Fotsi Fotsi Eric Yann, ICTU20241373
+* Tchounga Mbagna Yann Melvin, ICTU20241442
+
+
+
+
+
+*Name: Chia Feni Tony Kiendel
+*Matricule: ICTU20241701
+
+*Name: Hassan Tita Pofakeo Musa 
+Matricule: ICTU20241328
