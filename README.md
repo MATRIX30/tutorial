@@ -59,6 +59,9 @@ HEAD
 
 *Name: Chia Feni Tony Kiendel
 *Matricule: ICTU20241701
+<<<<<<< HEAD
+- Name: AYANGHO-JADREY-CHOFONG -Matricule:ICTU20241866
+
 
 *Name: Hassan Tita Pofakeo Musa 
 Matricule: ICTU20241328
@@ -67,3 +70,4 @@ Matricule: ICTU20241328
 - Name:Obiegbunam Philip
 - Matriculation:ICTU20251151 
 - Name: Njouda Tchinda Randy, ICTU20241933
+>>>>>>> bbf7ab2ab868d6ef5a188dac338ad32411800fe1
