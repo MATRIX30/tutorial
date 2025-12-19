@@ -72,3 +72,4 @@ Matricule: ICTU20241328
 - Name: kulaban kyle , ICTU20241758
 - Name: Arrey Bissong Gerald
 - Matricule: ICTU20251120
+- NAME: TANDIE FOMEKONG RISCHARD, ICTU20241717
