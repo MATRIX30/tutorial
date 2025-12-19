@@ -23,9 +23,10 @@
 - Name: Tembuck Uslar , Matricule:ICTU20251173
 - Name: Ngoh Tche Huela, Matricule: ICTU20241492
 - Beyala Menye Pauline Sonia, Matricule:ICTU20241748
-
+Abongong Patience Akwen Price
+Matricule : ICTU20241375.
 HEAD
-
+*ABONGONG PATIENCE AKWEN PRICE:ICTU20241375 
 * BERI NDAMNSA:ICTU20241668
 * Lum Azinui Emerald Chingang ICTU20241334
 * Name:Kole Ebang Ryan
